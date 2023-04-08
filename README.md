@@ -1,5 +1,5 @@
 # Industrial-safety-and-security-system
-To implement the safety and security systems in an industry/factory.
+An arduino project to implement the safety and security systems in an industry/factory.
 # Scope and objective of project
 From the statistics annually more than 3000 accident cases are being registered in
 the industries. As a team our objective is to implement the Safety and security system for
